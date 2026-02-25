@@ -1,0 +1,19 @@
+# Virtual environment directories
+venv/
+.venv/
+
+# IDE directories
+.vscode/
+
+# editor directories
+__pycache__/
+*.pyc
+.py[cod]
+
+#Environment secrets
+.env
+
+# Archive
+*.zip
+
+
